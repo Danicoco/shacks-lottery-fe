@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/dashboard/games/[id]/details/page": "app/dashboard/games/[id]/details/page.js",
+  "/dashboard/games/[id]/edit/page": "app/dashboard/games/[id]/edit/page.js",
+  "/dashboard/games/create/page": "app/dashboard/games/create/page.js",
+  "/dashboard/games/page": "app/dashboard/games/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/subscribers/page": "app/dashboard/subscribers/page.js",
+  "/dashboard/transactions/page": "app/dashboard/transactions/page.js",
+  "/dashboard/winners/page": "app/dashboard/winners/page.js",
+  "/dashboard/admins/page": "app/dashboard/admins/page.js"
+}

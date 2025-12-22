@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/page": "/",
+  "/login/page": "/login",
+  "/dashboard/games/[id]/details/page": "/dashboard/games/[id]/details",
+  "/dashboard/games/[id]/edit/page": "/dashboard/games/[id]/edit",
+  "/dashboard/games/create/page": "/dashboard/games/create",
+  "/dashboard/games/page": "/dashboard/games",
+  "/dashboard/page": "/dashboard",
+  "/dashboard/subscribers/page": "/dashboard/subscribers",
+  "/dashboard/transactions/page": "/dashboard/transactions",
+  "/dashboard/winners/page": "/dashboard/winners",
+  "/dashboard/admins/page": "/dashboard/admins"
+}
